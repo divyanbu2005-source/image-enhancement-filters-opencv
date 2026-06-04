@@ -17,7 +17,7 @@ To write a Python program using OpenCV to apply different smoothing filters (Ave
 - Apply Laplacian operator  
 - Display all outputs for comparison  
 
----
+--
 
 ##  Software Used
 
